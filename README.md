@@ -2,6 +2,8 @@
 
 Basic application developed using angular4 for CRUD operation
 
+Live URL - https://himanshurout.github.io/ng4-basic-crud/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
