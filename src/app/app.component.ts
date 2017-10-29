@@ -19,9 +19,9 @@ export class AppComponent  implements OnInit{
     this.buttonText = "Add";
     this.user = new User("","","");
   	this.users = [];
-  	let newUser = new User("Manjulata","manju@gmail.com","9439901086");
+  	let newUser = new User("Gitanjali","gitanjali@gmail.com","9439901000");
   	this.users.push(newUser);
-  	newUser = new User("Padmalochan","padu@gmail.com","9866591110");
+  	newUser = new User("Manjulata","manjulata@gmail.com","9866590000");
   	this.users.push(newUser);
   }
 
